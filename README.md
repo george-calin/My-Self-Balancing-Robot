@@ -1,3 +1,8 @@
 # My-Self-Balancing-Robot
-
-(gol deocamdata) BOM https://docs.google.com/spreadsheets/d/1FOExUiy9bWGSHs2sPPPAIK_6Y47cQSyOwVDcnXqM8xI/edit?usp=sharing
+Arduino Mega 
+Tb6612Fng Dual Motor Driver
+Bluetooth Module HM-10 
+MPU 6050 
+Lipo Battery 7-12 V
+Encoder Motors 1:34 , 150 -200 RPM/Stepper Motors 
+~60mm Wheels
